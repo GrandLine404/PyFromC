@@ -1,3 +1,6 @@
+# python specific
+*/__pycache__/*
+
 # Prerequisites
 *.d
 
